@@ -1,0 +1,14 @@
+numpy>=1.20.0
+matplotlib>=3.5.0
+Flask>=2.0.0
+tushare>=1.2.89
+scipy>=1.9.0
+pandas>=1.5.0
+yfinance>=0.2.0
+akshare>=1.12.0
+baostock>=0.8.8
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas-datareader>=0.10.0
+scikit-learn>=1.0.0
+
